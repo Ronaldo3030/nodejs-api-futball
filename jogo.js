@@ -2,6 +2,8 @@ const pup = require('puppeteer');
 
 const url = 'https://fscore.com.br/';
 
+// TIMES COM NOME - TÃO BUGANDO
+
 const bot = async () => {
     const list = [];
     const browser = await pup.launch({
