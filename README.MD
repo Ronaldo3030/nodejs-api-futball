@@ -11,7 +11,7 @@ Ela ainda não está em sua versão final pois ainda tem algumas coisas para ser
 
 ## 🛠️ Abrir e rodar o projeto
 
-No momento a API está hospodada na Heroku, basta fazer o GET no link e consumir a API: https://nodejs-api-futball.herokuapp.com/
+No momento a API está hospodada na Heroku, basta fazer o GET no link e consumir a API: <a href="https://nodejs-api-futball.herokuapp.com/" target="_blank">https://nodejs-api-futball.herokuapp.com/</a>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
