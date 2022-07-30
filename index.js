@@ -1,5 +1,5 @@
 const express = require('express');
-import cors from 'cors';
+const cors = require('cors');
 const server = express();
 const bot = require('./jogo');
 const botOntem = require('./jogo-ontem');
