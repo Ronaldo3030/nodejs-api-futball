@@ -11,7 +11,10 @@ Ela ainda não está em sua versão final pois ainda tem algumas coisas para ser
 
 ## 🛠️ Abrir e rodar o projeto
 
-No momento a API está hospodada na Heroku, basta fazer o GET no link e consumir a API: <a href="https://nodejs-api-futball.herokuapp.com/" target="_blank">https://nodejs-api-futball.herokuapp.com/</a>
+No momento a API está hospodada na Heroku, basta fazer o GET no link e consumir a API: link ( https://nodejs-api-futball.herokuapp.com )
+- Jogos de hoje = <a href="https://nodejs-api-futball.herokuapp.com/" target="_blank">/</a>
+- Jogos de ontem =  <a href="https://nodejs-api-futball.herokuapp.com/ontem" target="_blank">/ontem</a>
+- Jogos agora = <a href="https://nodejs-api-futball.herokuapp.com/agora" target="_blank">/agora</a>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
