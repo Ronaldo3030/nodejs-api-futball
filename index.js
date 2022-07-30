@@ -1,12 +1,9 @@
 const express = require('express');
-const cors = require('cors');
 const server = express();
 const bot = require('./jogo');
 const botOntem = require('./jogo-ontem');
 const botAgora = require('./jogo-online');
 const botData = require('./jogo-data');
-
-app.use(cors());
 
 const port = process.env.PORT || 3000;
 
