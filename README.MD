@@ -1,7 +1,4 @@
 <h1 align="center"> Api Resultado Futebol </h1>
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
 
 ![5205447](https://user-images.githubusercontent.com/86241807/181915168-11f8f101-7478-464d-83d4-7addd3cba652.jpg)
 
